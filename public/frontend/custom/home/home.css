@@ -1,0 +1,13 @@
+.product-box-5 .product-image .product-option li+li:after {
+    margin-left: -9px !important;
+}
+.category-box::after {
+    background-color: #2196f31c !important;
+}
+.category-box:hover h5 {
+    color: black !important;
+}
+.view-all {
+    display: grid !important;
+    justify-content: end !important;
+}
